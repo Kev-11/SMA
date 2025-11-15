@@ -1,4 +1,4 @@
-3. Run OCR proxy server (optional, recommended for scanned PDFs):
+Run OCR proxy server (optional, recommended for scanned PDFs):
 
 ```bash
 npm run start-server
